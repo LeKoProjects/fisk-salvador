@@ -80,7 +80,7 @@
                     </div>
                 </div>
                 <div class="course-card fade-in">
-                    <div class="course-image" style="background-image: url('https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');"></div>
+                    <div class="course-image" style="background-image: url('https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1000&q=80');"></div>
                     <div class="course-content">
                         <h3 class="course-title">Espanhol</h3>
                         <p class="course-description">Domine o espanhol com professores nativos e metodologia interativa. Perfeito para viagens, trabalho e desenvolvimento pessoal.</p>
