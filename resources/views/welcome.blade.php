@@ -121,20 +121,6 @@
                 </div>
                 <div class="differential-card fade-in">
                     <div class="differential-icon">
-                        <i class="fas fa-home"></i>
-                    </div>
-                    <h3 class="differential-title">Ambiente Acolhedor</h3>
-                    <p class="differential-description">Salas de aula modernas e confortáveis, criando um ambiente propício para o aprendizado.</p>
-                </div>
-                <div class="differential-card fade-in">
-                    <div class="differential-icon">
-                        <i class="fas fa-users"></i>
-                    </div>
-                    <h3 class="differential-title">Turmas Pequenas</h3>
-                    <p class="differential-description">Máximo de 12 alunos por turma, garantindo atenção individualizada e melhor aproveitamento.</p>
-                </div>
-                <div class="differential-card fade-in">
-                    <div class="differential-icon">
                         <i class="fas fa-certificate"></i>
                     </div>
                     <h3 class="differential-title">Certificação Internacional</h3>
@@ -259,7 +245,7 @@
                         </div>
                         <div>
                             <strong>Telefone:</strong><br>
-                            (71) 99999-9999
+                            (71) 3334-5222
                         </div>
                     </div>
                     <div class="contact-item">
@@ -268,7 +254,7 @@
                         </div>
                         <div>
                             <strong>E-mail:</strong><br>
-                            contato@fisksalvador.com.br
+                            contato@fisk-salvador.com.br
                         </div>
                     </div>
                     <div class="contact-item">
@@ -316,10 +302,9 @@
                     <h3>Fisk Salvador</h3>
                     <p>Há mais de 20 anos ensinando idiomas com excelência em Salvador. Nossa missão é proporcionar o melhor aprendizado de inglês e espanhol para nossos alunos.</p>
                     <div class="social-links">
-                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+                        <a href="https://www.facebook.com/FiskSalvador" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/fisksalvador" class="social-link"><i class="fab fa-instagram"></i></a>
+                        <a href="https://x.com/fisk_salvador" class="social-link"><i class="fab fa-twitter"></i></a>
                     </div>
                 </div>
                 <div class="footer-section">
@@ -338,13 +323,13 @@
                 </div>
                 <div class="footer-section">
                     <h3>Contato</h3>
-                    <p><i class="fas fa-phone"></i> (71) 99999-9999</p>
-                    <p><i class="fas fa-envelope"></i> contato@fisksalvador.com.br</p>
+                    <p><i class="fas fa-phone"></i> (71) 3334-5222</p>
+                    <p><i class="fas fa-envelope"></i> contato@fisk-salvador.com.br</p>
                     <p><i class="fas fa-map-marker-alt"></i> Tv. Remanso, 527 - Rio Vermelho</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Fisk Salvador. Todos os direitos reservados.</p>
+                <p>&copy; 2025 Fisk Salvador. Todos os direitos reservados.</p>
             </div>
         </div>
     </footer>
